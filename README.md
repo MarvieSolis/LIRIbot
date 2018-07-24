@@ -11,6 +11,3 @@ This program combines 3 APIs into one, giving the user the ability to access inf
 ## Getting started
 People can learn more about using Node.js by looking through websites such as [Node JS](https://nodejs.org/en/).
 
-
-## The Site is live!
-[Click here to see the page!](https://marviesolis.github.io/LIRIbot/)
